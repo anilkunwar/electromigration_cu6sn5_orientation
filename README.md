@@ -15,5 +15,7 @@ The brief descriptions of the content within the data and code files are provide
    area	= area of nth grain;
    tl = ;
    bl =
+   The initial and simulation conditions of the phase field simulations were designed in accordance to the values assigned for j, gnid, ntheta, nltheta and nrtheta.  The results from the phase field simulations produced the data for area of nth grain.
+   (b.)
 
    [1]S. Liang et al., “Phase field modelling combined with data-driven approach to unravel the orientation influenced growth of interfacial Cu6Sn5 intermetallics under electric current stressing,” Surfaces and Interfaces, vol. 37, p. 102728, Apr. 2023, doi: 10.1016/j.surfin.2023.102728.
